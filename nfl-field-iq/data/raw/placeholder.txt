@@ -1,3 +1,0 @@
-# Directory Placeholder
-
-This directory contains raw data files that will be used for analysis.

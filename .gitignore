@@ -1,0 +1,13 @@
+# Python Files
+__pycache__/
+*.py[cod]
+
+# Virtual Environments
+.vscode/
+*.env
+.DS_Store
+env/
+venv/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
